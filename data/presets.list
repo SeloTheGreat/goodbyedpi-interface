@@ -1,0 +1,25 @@
+-5 --set-ttl 5 --dns-addr 1.1.1.1 --dns-port 53 --dnsv6-addr 2606:4700:4700::1111 --dnsv6-port 53
+--set-ttl 3
+-5
+--set-ttl 3 --dns-addr 1.1.1.1 --dns-port 53 --dnsv6-addr 2606:4700:4700::1111 --dnsv6-port 53
+-5 --dns-addr 1.1.1.1 --dns-port 53 --dnsv6-addr 2606:4700:4700::1111 --dnsv6-port 53
+-9 --dns-addr 1.1.1.1 --dns-port 53 --dnsv6-addr 2606:4700:4700::1111 --dnsv6-port 53
+-9
+-6
+-7
+-8
+-5 --set-ttl 3
+-6 --set-ttl 3
+-7 --set-ttl 3
+-8 --set-ttl 3
+-5 --set-ttl 4
+-6 --set-ttl 4
+-7 --set-ttl 4
+-8 --set-ttl 4
+-5 --set-ttl 7
+-6 --set-ttl 7
+-7 --set-ttl 7
+-8 --set-ttl 7
+-9 --set-ttl 3
+-9 --set-ttl 4
+-9 --set-ttl 7
